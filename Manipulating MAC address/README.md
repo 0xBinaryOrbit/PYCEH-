@@ -64,11 +64,6 @@ This tool is intended for educational and ethical use only. Unauthorized MAC add
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🤝 Contributing
 
@@ -78,5 +73,5 @@ Pull requests and suggestions are welcome! Feel free to fork the repository and 
 
 ## 🔗 Author
 
-**Your Name**  
-GitHub: [your-username](https://github.com/your-username)
+**Faisal khan**  
+GitHub: [Faisal Khan](https://github.com/mrfaisal607)
