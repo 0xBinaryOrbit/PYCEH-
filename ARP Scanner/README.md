@@ -30,7 +30,7 @@ pip install scapy
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/arp-scanner-py.git
+git clone https://github.com/mrfaisal607/arp-scanner-py.git
 cd arp-scanner-py
 ```
 
