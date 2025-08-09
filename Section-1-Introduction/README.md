@@ -65,5 +65,5 @@ Python’s versatility, simplicity, and vast ecosystem make it an indispensable 
 ---
 
 **Author:** [FaisalKhan (0xBinaryOrbit)]  
-**GitHub:** [Your GitHub Profile Link](https://github.com/0xBinaryOrbit) 
+**GitHub:** [0xBinaryOrbit](https://github.com/0xBinaryOrbit) 
 
